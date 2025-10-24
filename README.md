@@ -27,7 +27,7 @@ A webcam connected to your computer.<br>
 Step-by-Step Installation-><br>
 
 Clone the Repository:<br>
-git clone [Your-Repository-Link]<br>
+git clone (https://github.com/Danny-cell/Virtual-Hand-Controlled-Piano)<br>
 cd Virtual_Piano_CV<br>
 Install Dependencies: All required libraries can be installed using the requirements.txt file:<br>
 
